@@ -1,7 +1,7 @@
 # Hej, jestem Michał ([mdomzalski.pl][website]) 👋
 <br/>
 
-## Kontakt:
+# Kontakt:
 
 [<img align="center" alt="mdomzalski.pl" width="22px" fill="#3295FE" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="center" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-## Technologie których używam:
+# Technologie których używam:
 
 <img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/php.svg" />
 <img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/laravel.svg" />
@@ -27,9 +27,8 @@
 <br/>
 <br/>
 
----
 
-## Projekty
+# Projekty
 
 | Nazwa | Widok | Data wykonania |
 | ------------- |:-------------:| -------------:| 
