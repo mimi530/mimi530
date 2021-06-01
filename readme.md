@@ -1,5 +1,4 @@
 # Hej, jestem Michał ([mdomzalski.pl][website]) 👋
-<br/>
 
 # Kontakt:
 
