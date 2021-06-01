@@ -1,21 +1,15 @@
 # Hej, jestem Michał ([mdomzalski.pl][website]) 👋
+<br/>
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
----
 ## Kontakt:
 
 [<img align="center" alt="mdomzalski.pl" width="22px" fill="#3295FE" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="center" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
+<br/>
+<br/>
 
----
 ## Technologie których używam:
 
 <img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/php.svg" />
@@ -28,6 +22,7 @@
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/css3.svg" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/react.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6577913ec350eb5346584294e801f79f9e8e9aaf/icons/javascript.svg" />
+<br/>
 <br/>
 <br/>
 <br/>
