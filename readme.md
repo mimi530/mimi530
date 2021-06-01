@@ -12,7 +12,8 @@
 
 [<img align="center" alt="mdomzalski.pl" width="22px" fill="#3295FE" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="center" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][linkedin]
+[<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
 
 ---
 ## Technologie których używam:
@@ -27,12 +28,15 @@
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
+<br/>
+<br/>
+<br/>
 
 ---
+
 ## Projekty
 
-| Project | Refrence | Data |
+| Nazwa | Widok | Data wykonania |
 | ------------- |:-------------:| -------------:| 
 | [Listed](https://listed.mdomzalski.pl) | ![ulanelectronics.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/listed-768x373.jpg) | 02.2021
 | [Laravel CMS](https://laravelcms.mdomzalski.pl) | ![21l.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/laravel-cms-768x374.jpg) | 10.2020
@@ -40,3 +44,5 @@
 
 [website]: https://mdomzalski.pl
 [linkedin]: https://linkedin.com/in/codeSTACKr
+[facebook]: https://www.facebook.com/profile.php?id=100012972611948
+[mail]: mailto:kontakt@mdomzalski.pl
