@@ -1,19 +1,19 @@
 <h1 align="center">Hej, jestem Michał <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">Junior PHP Developer @ Data Space sp. z o.o.</h3>
 
-# Kontakt:
+<h1 align="center">Kontakt</h1>
+<div align="center">
 
-[<img align="center" alt="mdomzalski.pl" width="22px" fill="#3295FE" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="center" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" style="fill:" alt="mdomzalski.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
+[<img align="center" alt="mdomzalski.pl" width="30px" fill="#3295FE" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="center" alt="mdomzalski.pl" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" style="fill:" alt="mdomzalski.pl" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center" style="fill:" alt="mdomzalski.pl" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]
+</div>
 <br/>
 <br/>
 
-# Technologie których używam:
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h1 align="center">Technologie których używam</h1>
+<p align="center"> 
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
