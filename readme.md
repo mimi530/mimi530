@@ -45,6 +45,6 @@
 | [Car Service History](https://car-service-history.mdomzalski.pl) | ![koinomat.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/2021-04-03-23.38.15-car-service-history.mdomzalski.pl-913bc5cb209e-768x370.jpg) | 09.2020
 
 [website]: https://mdomzalski.pl
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/michał-domżalski
 [facebook]: https://www.facebook.com/profile.php?id=100012972611948
 [mail]: mailto:kontakt@mdomzalski.pl
