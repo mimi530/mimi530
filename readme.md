@@ -40,9 +40,9 @@
 
 | Nazwa | Widok | Data wykonania |
 | ------------- |:-------------:| -------------:| 
-| [Listed](https://listed.mdomzalski.pl) | ![ulanelectronics.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/listed-768x373.jpg) | 02.2021
-| [Laravel CMS](https://laravelcms.mdomzalski.pl) | ![21l.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/laravel-cms-768x374.jpg) | 10.2020
-| [Car Service History](https://car-service-history.mdomzalski.pl) | ![koinomat.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/2021-04-03-23.38.15-car-service-history.mdomzalski.pl-913bc5cb209e-768x370.jpg) | 09.2020
+| [Listed](https://listed.mdomzalski.pl) | ![listed.mdomzalski.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/listed-768x373.jpg) | 02.2021
+| [Laravel CMS](https://laravelcms.mdomzalski.pl) | ![laravelcms.mdomzalski.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/laravel-cms-768x374.jpg) | 10.2020
+| [Car Service History](https://car-service-history.mdomzalski.pl) | ![car-service-history.mdomzalski.pl](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://mdomzalski.pl/wp-content/uploads/2021/05/2021-04-03-23.38.15-car-service-history.mdomzalski.pl-913bc5cb209e-768x370.jpg) | 09.2020
 
 [website]: https://mdomzalski.pl
 [linkedin]: https://linkedin.com/in/michał-domżalski
